@@ -1,1 +1,1 @@
-# sortAlgorithms
+one of the most beautiful and amazing parts of computer science is sorting algorithm. i learn about sorting in the algorithm analysis course then i decide to implement them in cpp to understand more how they really work and these are the results.
